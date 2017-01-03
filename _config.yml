@@ -176,10 +176,10 @@ keybase-in-footer: True
 # Sections shown in the index page
 
 pages_list:
-#  About: 'about'
+  About: 'about'
   Blog: 'latest-post'
-#  Timeline: 'timeline'
-#  Contact: 'contact'
+  Timeline: 'timeline'
+  Contact: 'contact'
 
 # Exclusion list from the generated _site
 
