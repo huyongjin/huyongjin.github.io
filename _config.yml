@@ -28,8 +28,7 @@ force-https: True
 # HTML Head #
 #############
 
-#lang: "en"
-lang: "cn"
+lang: "en"
 author: "hyj"
 title: "hyj"
 description: "Blog"
